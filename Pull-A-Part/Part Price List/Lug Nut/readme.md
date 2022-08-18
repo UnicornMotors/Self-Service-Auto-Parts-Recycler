@@ -1,7 +1,7 @@
 Base    Fee   Core
 
-LUG NUT (EACH)
-~~$0.59   $0.00   $0.00~~
+LUG NUT (EACH)  
+$0.59   $0.00   $0.00
 
 
 # Rockauto is Cheaper:
